@@ -37,16 +37,16 @@ body {
 }
 
 .btn {
-    background-color: #ffaeba;
+    background-color: ##094293;
     color: white;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 22px;
+    margin: 8px 4px;
     cursor: pointer;
     border: none;
-    border-radius: 25px;
+    border-radius: 29px;
     transition: background-color 0.3s ease;
     opacity: 0.7;
 }
